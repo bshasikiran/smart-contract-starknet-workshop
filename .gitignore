@@ -1,7 +1,5 @@
 node_modules
 
-
-
 .env
 .snfoundry_cache
 .DS_Store
